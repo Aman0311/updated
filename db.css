@@ -1,0 +1,251 @@
+.logo
+{height:60px;
+ width:60px;
+padding-right:10px;
+}
+.logot
+{
+  position:absolute;
+  height:40px;
+  width:40px;
+}
+.left
+{
+  text-align: left;
+  border-style:ridge;
+  width:270px;
+  display:inline-block;
+  float:left;
+}
+hr{display: inline-block;}
+.middle
+{
+  padding-left:20px;
+  display:inline-block;
+  float:left;
+  width:500px;
+  height:500px;
+  border
+}
+.middlet
+{
+  padding-top: 10px;
+  padding-left:60px;
+  padding-bottom: 80px;
+}
+.border
+{
+  width:700px;
+  border-collapse: collapse;
+  border:1px solid black;
+}
+.inbl
+{
+  display:inline-block;
+}
+.eksath
+{
+  padding-left:30px;
+}
+.middlete
+{
+  padding-left:60px;
+}
+.lcs
+{
+  position: absolute;
+  display:inline-block;
+  padding-left: 20px;
+}
+.lcsi
+{
+  position: absolute;
+  height:20px;
+  padding-top: 10px;
+}
+.rel{position:relative;}
+.abs{position:absolute;
+      width:600px;
+      text-align:center;}
+.right
+{
+  display:inline-block;
+  width:270px;
+  float:right;
+}
+.inright
+{
+    overflow:scroll;
+  background-color:#f1f3f8
+
+}
+.rt
+{
+  display:inline-block;
+  border-style:ridge;
+  margin-bottom: 30px;
+  margin-right:20px;
+  padding-right: 50px;
+}
+.nom
+{
+  text-align:center;
+  display:inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 40px;
+  padding-top: auto;
+}
+.nomp
+{
+  text-align:center;
+  display:inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left:40px;
+  padding-bottom: 10px;;
+}
+.namei
+{
+  position:absolute;
+  height:30px;
+  padding-top: 5px;
+  margin:auto;;
+}
+.inc
+{
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+.stu:hover
+{
+  background-color: #d6e0f0;
+}
+.stu
+{
+  position:relative;
+}
+h2,h3
+{
+  display: inline;
+}
+.center
+{
+  text-align:center;
+}
+.less
+{
+  padding-bottom:5px;
+}
+.share
+{
+  height:20px;
+  padding-left: 20px;
+}
+.options
+{
+  height:15px;
+  padding:15px;
+  padding-bottom:0px;
+}
+a
+{
+  color:black;
+  text-decoration: none;
+}
+.lefto:hover
+{
+  background-color: #8d93ab;
+}
+.lefto
+{
+  height:5px;
+  width:260px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius:50px;
+  padding-bottom: 10px;
+}
+.lefto:focus
+{
+  background-color: #8d93ab;
+}
+.myButtone {
+	box-shadow:inset 0px 1px 0px 0px #f5978e;
+	background:linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+	background-color:#f24537;
+	border-radius:6px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:9px 46px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+  float:right;
+  margin-right: 50px;
+  margin-bottom:20px;
+}
+.myButtone:hover {
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24537 100%);
+	background-color:#c62d1f;
+}
+.myButtone:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:linear-gradient(to bottom, #fe1a00 5%, #ce0100 100%);
+	background-color:#fe1a00;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	padding:5px 41px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ce0100 5%, #fe1a00 100%);
+	background-color:#ce0100;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButtonr {
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:linear-gradient(to bottom, #fe1a00 5%, #ce0100 100%);
+	background-color:#fe1a00;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:13px 38px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+  float:right;
+  margin-right: 50px;
+  margin-bottom:20px;
+}
+.myButtonr:hover {
+	background:linear-gradient(to bottom, #ce0100 5%, #fe1a00 100%);
+	background-color:#ce0100;
+}
+.myButtonr:active {
+	position:relative;
+	top:1px;
+}
